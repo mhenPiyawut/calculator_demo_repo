@@ -9,3 +9,4 @@ def multiply(a, b):
 if __name__ == "__main__":
     print("Simple Calculator Demo")
     print("2 + 3 =", add(2, 3))
+    print("4 * 3 =", multiply(4, 3))
